@@ -1,5 +1,3 @@
-package Stack;
-
 class Stack {
     Stack() {
         top = -1;
